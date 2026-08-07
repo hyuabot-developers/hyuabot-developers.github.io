@@ -8,6 +8,16 @@
   text-align: center;
   position: relative;
   overflow: hidden;
+  /* Fixed to the app's actual brand navy in both light and dark mode —
+     the theme's dark-mode primary is deliberately lighter for text
+     contrast elsewhere, which would wash out the hero if reused here. */
+  background-color: #0e4a84;
+  color: #fff;
+}
+
+.heroBanner :global(.hero__title),
+.heroBanner :global(.hero__subtitle) {
+  color: #fff;
 }
 
 @media screen and (max-width: 996px) {

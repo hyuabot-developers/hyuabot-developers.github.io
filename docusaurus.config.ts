@@ -10,7 +10,7 @@ const editUrl =
 const config: Config = {
   title: 'HYUabot Docs',
   tagline: 'HYUabot 사용설명서 및 체인지로그',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/favicon.png',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
   future: {
@@ -79,8 +79,7 @@ const config: Config = {
   ],
 
   themeConfig: {
-    // Replace with your project's social card
-    image: 'img/docusaurus-social-card.jpg',
+    image: 'img/hyuabot-icon.png',
     colorMode: {
       respectPrefersColorScheme: true,
     },
@@ -88,7 +87,7 @@ const config: Config = {
       title: 'HYUabot Docs',
       logo: {
         alt: 'HYUabot Logo',
-        src: 'img/logo.svg',
+        src: 'img/hyuabot-icon-transparent.png',
       },
       items: [
         {

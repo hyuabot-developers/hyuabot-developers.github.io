@@ -1,6 +1,6 @@
 # HYUabot Docs
 
-HYUabot Android/iOS 앱의 사용설명서와 버전별 체인지로그를 제공하는 사이트입니다. [Docusaurus](https://docusaurus.io/)로 빌드되며, `main` 브랜치에 push되면 GitHub Actions를 통해 GitHub Pages로 자동 배포됩니다.
+휴아봇 Android/iOS 앱의 사용설명서와 버전별 체인지로그를 제공하는 사이트입니다. [Docusaurus](https://docusaurus.io/)로 빌드되며, `main` 브랜치에 push되면 GitHub Actions를 통해 GitHub Pages로 자동 배포됩니다.
 
 - 문서: `docs/android`, `docs/ios`
 - 체인지로그: `changelog/android`, `changelog/ios`

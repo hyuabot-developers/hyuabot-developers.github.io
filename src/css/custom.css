@@ -28,3 +28,14 @@
   --ifm-color-primary-lightest: #4fddbf;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
+
+/*
+ * Korean (and other CJK) text wraps between every syllable by default,
+ * which breaks words like "안내" into "안" / "내" on narrow columns
+ * (e.g. table cells on mobile). keep-all wraps on spaces instead, only
+ * falling back to a mid-word break if a single word can't fit at all.
+ */
+body {
+  word-break: keep-all;
+  overflow-wrap: break-word;
+}

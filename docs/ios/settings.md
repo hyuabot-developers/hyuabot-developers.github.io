@@ -6,6 +6,8 @@ sidebar_position: 7
 
 **캠퍼스 → 설정**에서 앱 환경을 조정합니다.
 
+<img src="/img/ios/ko/settings.png" alt="설정 화면" width="320" />
+
 | 항목 | 설명 |
 | --- | --- |
 | 캠퍼스 설정 | 서울캠퍼스 / ERICA캠퍼스 중 내가 재학 중인 캠퍼스를 선택합니다 |

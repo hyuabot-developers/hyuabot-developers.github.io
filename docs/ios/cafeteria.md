@@ -6,6 +6,8 @@ sidebar_position: 5
 
 하단 내비게이션의 **학식** 탭에서 교내 식당별 메뉴를 확인합니다.
 
+<img src="/img/ios/ko/cafeteria.png" alt="학식 화면" width="320" />
+
 ## 메뉴 조회
 
 - 아침·점심·저녁 탭으로 구분되어 있습니다.

@@ -1,0 +1,38 @@
+{
+  "homepage.tagline": {
+    "message": "HYUabot 使用说明与更新日志",
+    "description": "The tagline shown under the site title on the homepage"
+  },
+  "homepage.button.android": {
+    "message": "Android 文档",
+    "description": "Homepage button linking to the Android docs"
+  },
+  "homepage.button.ios": {
+    "message": "iOS 文档",
+    "description": "Homepage button linking to the iOS docs"
+  },
+  "homepage.feature.manual.title": {
+    "message": "分平台使用说明",
+    "description": "Homepage feature card title"
+  },
+  "homepage.feature.manual.description": {
+    "message": "可按语言查看 Android · iOS 应用各个界面的使用方法。",
+    "description": "Homepage feature card description"
+  },
+  "homepage.feature.changelog.title": {
+    "message": "版本更新日志",
+    "description": "Homepage feature card title"
+  },
+  "homepage.feature.changelog.description": {
+    "message": "按平台整理每个新版本的变化内容。",
+    "description": "Homepage feature card description"
+  },
+  "homepage.feature.link.title": {
+    "message": "与应用直接连接",
+    "description": "Homepage feature card title"
+  },
+  "homepage.feature.link.description": {
+    "message": "应用内的帮助与更新说明会直接跳转到本网站对应的页面。",
+    "description": "Homepage feature card description"
+  }
+}

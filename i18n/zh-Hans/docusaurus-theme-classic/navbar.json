@@ -1,0 +1,30 @@
+{
+  "title": {
+    "message": "HYUabot Docs",
+    "description": "The title in the navbar"
+  },
+  "logo.alt": {
+    "message": "HYUabot 标志",
+    "description": "The alt text of navbar logo"
+  },
+  "item.label.Android": {
+    "message": "Android",
+    "description": "Navbar item with label Android"
+  },
+  "item.label.iOS": {
+    "message": "iOS",
+    "description": "Navbar item with label iOS"
+  },
+  "item.label.Android 체인지로그": {
+    "message": "Android 更新日志",
+    "description": "Navbar item with label Android 체인지로그"
+  },
+  "item.label.iOS 체인지로그": {
+    "message": "iOS 更新日志",
+    "description": "Navbar item with label iOS 체인지로그"
+  },
+  "item.label.GitHub": {
+    "message": "GitHub",
+    "description": "Navbar item with label GitHub"
+  }
+}

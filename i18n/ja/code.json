@@ -1,0 +1,38 @@
+{
+  "homepage.tagline": {
+    "message": "HYUabot 使用説明書と更新履歴",
+    "description": "The tagline shown under the site title on the homepage"
+  },
+  "homepage.button.android": {
+    "message": "Androidドキュメント",
+    "description": "Homepage button linking to the Android docs"
+  },
+  "homepage.button.ios": {
+    "message": "iOSドキュメント",
+    "description": "Homepage button linking to the iOS docs"
+  },
+  "homepage.feature.manual.title": {
+    "message": "プラットフォーム別使用説明書",
+    "description": "Homepage feature card title"
+  },
+  "homepage.feature.manual.description": {
+    "message": "Android・iOSアプリの画面ごとの使い方を言語別に確認できます。",
+    "description": "Homepage feature card description"
+  },
+  "homepage.feature.changelog.title": {
+    "message": "バージョン別更新履歴",
+    "description": "Homepage feature card title"
+  },
+  "homepage.feature.changelog.description": {
+    "message": "新しいバージョンで何が変わったかをプラットフォームごとにまとめて表示します。",
+    "description": "Homepage feature card description"
+  },
+  "homepage.feature.link.title": {
+    "message": "アプリとすぐに連携",
+    "description": "Homepage feature card title"
+  },
+  "homepage.feature.link.description": {
+    "message": "アプリ内のヘルプ・アップデート案内からこのサイトの該当ページへ直接移動します。",
+    "description": "Homepage feature card description"
+  }
+}

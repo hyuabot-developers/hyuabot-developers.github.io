@@ -1,0 +1,38 @@
+{
+  "homepage.tagline": {
+    "message": "HYUabot User Guide & Changelog",
+    "description": "The tagline shown under the site title on the homepage"
+  },
+  "homepage.button.android": {
+    "message": "Android Docs",
+    "description": "Homepage button linking to the Android docs"
+  },
+  "homepage.button.ios": {
+    "message": "iOS Docs",
+    "description": "Homepage button linking to the iOS docs"
+  },
+  "homepage.feature.manual.title": {
+    "message": "Per-Platform User Guide",
+    "description": "Homepage feature card title"
+  },
+  "homepage.feature.manual.description": {
+    "message": "Browse step-by-step usage guides for the Android and iOS apps, screen by screen, in your language.",
+    "description": "Homepage feature card description"
+  },
+  "homepage.feature.changelog.title": {
+    "message": "Version Changelog",
+    "description": "Homepage feature card title"
+  },
+  "homepage.feature.changelog.description": {
+    "message": "See what changed in each new version, organized by platform.",
+    "description": "Homepage feature card description"
+  },
+  "homepage.feature.link.title": {
+    "message": "Connected From The App",
+    "description": "Homepage feature card title"
+  },
+  "homepage.feature.link.description": {
+    "message": "Help and what's-new screens inside the app link directly to the matching page on this site.",
+    "description": "Homepage feature card description"
+  }
+}

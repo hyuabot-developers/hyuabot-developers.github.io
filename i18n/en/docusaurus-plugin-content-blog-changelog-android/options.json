@@ -1,0 +1,14 @@
+{
+  "title": {
+    "message": "Android Changelog",
+    "description": "The title for the blog used in SEO"
+  },
+  "description": {
+    "message": "Android Changelog",
+    "description": "The description for the blog used in SEO"
+  },
+  "sidebar.title": {
+    "message": "Android Changelog",
+    "description": "The label for the left sidebar"
+  }
+}

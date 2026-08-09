@@ -6,7 +6,7 @@ sidebar_position: 7
 
 Adjust app preferences from **Campus → Settings**.
 
-<img src="/img/ios/ko/settings.png" alt="Settings screen" width="320" />
+<img src="/img/ios/en/settings.png" alt="Settings screen" width="320" />
 
 | Item | Description |
 | --- | --- |

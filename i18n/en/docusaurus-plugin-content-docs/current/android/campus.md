@@ -6,7 +6,7 @@ sidebar_position: 7
 
 Access additional features for campus life from the **Campus** tab in the bottom navigation bar.
 
-<img src="/img/android/ko/campus.png" alt="Campus screen" width="320" />
+<img src="/img/android/en/campus.png" alt="Campus screen" width="320" />
 
 ## Campus Tools
 

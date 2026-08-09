@@ -6,7 +6,7 @@ sidebar_position: 5
 
 Check real-time arrival information at Hanyang University (Ansan) Station from the **Subway** tab in the bottom navigation bar.
 
-<img src="/img/android/ko/subway.png" alt="Subway screen" width="320" />
+<img src="/img/android/en/subway.png" alt="Subway screen" width="320" />
 
 ## Real-time Info
 

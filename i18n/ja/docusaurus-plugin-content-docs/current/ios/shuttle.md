@@ -6,7 +6,7 @@ sidebar_position: 2
 
 アプリ下部の**シャトル**タブをタップすると最初に表示される画面で、天気とシャトルバスの情報を中心に、よく確認する情報を1画面にまとめて表示します。
 
-<img src="/img/ios/ko/home.png" alt="ホーム画面" width="320" />
+<img src="/img/ios/ja/home.png" alt="ホーム画面" width="320" />
 
 ## ホーム画面
 
@@ -18,7 +18,7 @@ sidebar_position: 2
 
 停留所タブ方式のリアルタイム時刻表画面に切り替えることもできます（Androidの「従来のシャトル画面」と同じ概念）。
 
-<img src="/img/ios/ko/shuttle.png" alt="シャトルバスリアルタイム画面" width="320" />
+<img src="/img/ios/ja/shuttle.png" alt="シャトルバスリアルタイム画面" width="320" />
 
 - 停留所・目的地ごとの次の出発時刻を検索
 - 特定の時刻にアラームを予約するアラーム機能
@@ -26,7 +26,7 @@ sidebar_position: 2
 - クイック設定（Quick Settings）でよく使うオプションを調整
 - **全時刻表**に移動して1日分の全発車時刻表を確認
 
-<img src="/img/ios/ko/shuttle-timetable.png" alt="全時刻表" width="320" />
+<img src="/img/ios/ja/shuttle-timetable.png" alt="全時刻表" width="320" />
 
 :::info
 Androidと同様に、2つの画面（ホーム / シャトルバスリアルタイム）のうちデフォルトで表示する画面を設定で切り替えることができます。

@@ -6,7 +6,7 @@ sidebar_position: 7
 
 **キャンパス → 設定**でアプリの環境を調整します。
 
-<img src="/img/ios/ko/settings.png" alt="設定画面" width="320" />
+<img src="/img/ios/ja/settings.png" alt="設定画面" width="320" />
 
 | 項目 | 説明 |
 | --- | --- |

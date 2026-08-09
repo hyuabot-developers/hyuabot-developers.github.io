@@ -6,7 +6,7 @@ sidebar_position: 9
 
 无需打开应用，即可在设备主屏幕直接查看信息的小组件。HYUabot小组件共5种，以多种尺寸展示校车·食堂信息。
 
-<img src="/img/android/ko/widgets.png" alt="已将校车小组件添加至设备主屏幕的效果" width="320" />
+<img src="/img/android/zh/widgets.png" alt="已将校车小组件添加至设备主屏幕的效果" width="320" />
 
 - **校车小组件**：显示已注册站点的下一班出发时间。需授予位置权限方可正常显示。
 - **食堂小组件**：显示与当前时间匹配的食堂菜单。

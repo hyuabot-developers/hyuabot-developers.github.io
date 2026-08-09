@@ -6,7 +6,7 @@ sidebar_position: 3
 
 Check real-time arrival information by route from the **Bus** tab in the bottom navigation bar.
 
-<img src="/img/ios/ko/bus.png" alt="Bus real-time screen" width="320" />
+<img src="/img/ios/en/bus.png" alt="Bus real-time screen" width="320" />
 
 ## Stop Search
 

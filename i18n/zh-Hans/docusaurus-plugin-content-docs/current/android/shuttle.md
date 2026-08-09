@@ -16,7 +16,7 @@ sidebar_position: 3
 
 点击首页校车卡片上的**完整时刻表**，即可跳转至该站点的完整班次时刻表界面。
 
-<img src="/img/android/ko/shuttle-timetable.png" alt="校车完整时刻表界面" width="320" />
+<img src="/img/android/zh/shuttle-timetable.png" alt="校车完整时刻表界面" width="320" />
 
 时刻表分为工作日/周末标签，可上下滚动查看全天出发时间。
 
@@ -24,7 +24,7 @@ sidebar_position: 3
 
 如果您偏好上一版本的站点标签方式界面，可在首页底部的[首页设置](./home#快速设置)面板中点击**旧版校车界面**进行切换。
 
-<img src="/img/android/ko/shuttle-legacy-screen.png" alt="旧版校车界面" width="320" />
+<img src="/img/android/zh/shuttle-legacy-screen.png" alt="旧版校车界面" width="320" />
 
 - 站点以顶部标签（宿舍·梭特科克·汉大前·艺术人村·中央站等）的方式排列，点击标签即可直接切换站点。
 - 切换后，底部导航栏中首页标签的图标和名称将变更为**校车**。

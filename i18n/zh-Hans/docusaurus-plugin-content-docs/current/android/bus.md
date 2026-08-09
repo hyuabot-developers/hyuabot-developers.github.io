@@ -6,7 +6,7 @@ sidebar_position: 4
 
 在底部导航栏的**公交**标签中查看各线路实时到站信息。
 
-<img src="/img/android/ko/bus.png" alt="公交界面" width="320" />
+<img src="/img/android/zh/bus.png" alt="公交界面" width="320" />
 
 ## 线路标签
 

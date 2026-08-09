@@ -6,7 +6,7 @@ sidebar_position: 7
 
 在底部导航栏的**校园**标签中访问校园生活所需的附加功能。
 
-<img src="/img/android/ko/campus.png" alt="校园界面" width="320" />
+<img src="/img/android/zh/campus.png" alt="校园界面" width="320" />
 
 ## 校园工具
 

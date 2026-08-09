@@ -16,7 +16,7 @@ sidebar_position: 3
 
 ホーム画面のシャトルカードにある**全時刻表**をタップすると、停留所の全発車時刻表画面に移動します。
 
-<img src="/img/android/ko/shuttle-timetable.png" alt="シャトルバス全時刻表画面" width="320" />
+<img src="/img/android/ja/shuttle-timetable.png" alt="シャトルバス全時刻表画面" width="320" />
 
 平日/週末タブに分かれており、スクロールして1日分の全出発時刻を確認できます。
 
@@ -24,7 +24,7 @@ sidebar_position: 3
 
 旧バージョンの停留所タブ方式の画面を好む場合は、ホーム画面下部の[ホーム設定](./home#クイック設定)シートで**従来のシャトル画面**をタップして切り替えることができます。
 
-<img src="/img/android/ko/shuttle-legacy-screen.png" alt="従来のシャトル画面" width="320" />
+<img src="/img/android/ja/shuttle-legacy-screen.png" alt="従来のシャトル画面" width="320" />
 
 - 停留所が上部のタブ（寮・シャトルコック・漢大前・芸術人・中央駅など）として並んでおり、タブをタップして停留所をすぐに切り替えられます。
 - 切り替えると、下部ナビゲーションのホームタブのアイコンと名前が**シャトルバス**に変わります。

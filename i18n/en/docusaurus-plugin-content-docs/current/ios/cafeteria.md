@@ -6,7 +6,7 @@ sidebar_position: 5
 
 Check the menu for each on-campus dining hall from the **Cafeteria** tab in the bottom navigation bar.
 
-<img src="/img/ios/ko/cafeteria.png" alt="Cafeteria screen" width="320" />
+<img src="/img/ios/en/cafeteria.png" alt="Cafeteria screen" width="320" />
 
 ## Menu Lookup
 

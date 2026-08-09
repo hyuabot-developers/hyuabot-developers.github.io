@@ -6,7 +6,7 @@ sidebar_position: 3
 
 下部ナビゲーションの**バス**タブで路線ごとのリアルタイム到着情報を確認します。
 
-<img src="/img/ios/ko/bus.png" alt="バスリアルタイム画面" width="320" />
+<img src="/img/ios/ja/bus.png" alt="バスリアルタイム画面" width="320" />
 
 ## 停留所検索
 

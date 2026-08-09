@@ -6,7 +6,7 @@ sidebar_position: 4
 
 下部ナビゲーションの**電車**タブで駅ごとのリアルタイム到着情報を確認します。
 
-<img src="/img/ios/ko/subway.png" alt="電車リアルタイム画面" width="320" />
+<img src="/img/ios/ja/subway.png" alt="電車リアルタイム画面" width="320" />
 
 ## リアルタイム検索
 

@@ -6,7 +6,7 @@ sidebar_position: 2
 
 打开应用后首先显示的界面，将常用信息汇集在一个页面中展示。
 
-<img src="/img/android/ko/home.png" alt="首页界面" width="320" />
+<img src="/img/android/zh/home.png" alt="首页界面" width="320" />
 
 ## 主要信息
 

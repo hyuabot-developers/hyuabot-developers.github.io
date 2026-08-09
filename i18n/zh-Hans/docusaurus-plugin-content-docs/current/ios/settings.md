@@ -6,7 +6,7 @@ sidebar_position: 7
 
 在**校园 → 设置**中调整应用环境。
 
-<img src="/img/ios/ko/settings.png" alt="设置界面" width="320" />
+<img src="/img/ios/zh-Hans/settings.png" alt="设置界面" width="320" />
 
 | 选项 | 说明 |
 | --- | --- |

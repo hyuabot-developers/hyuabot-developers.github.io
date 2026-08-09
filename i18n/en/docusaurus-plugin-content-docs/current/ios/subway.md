@@ -6,7 +6,7 @@ sidebar_position: 4
 
 Check real-time arrival information by station from the **Subway** tab in the bottom navigation bar.
 
-<img src="/img/ios/ko/subway.png" alt="Subway real-time screen" width="320" />
+<img src="/img/ios/en/subway.png" alt="Subway real-time screen" width="320" />
 
 ## Real-time Info
 

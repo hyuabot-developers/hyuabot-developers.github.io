@@ -6,7 +6,7 @@ sidebar_position: 7
 
 下部ナビゲーションの**キャンパス**タブから、学校生活に必要な各種機能にアクセスします。
 
-<img src="/img/android/ko/campus.png" alt="キャンパス画面" width="320" />
+<img src="/img/android/ja/campus.png" alt="キャンパス画面" width="320" />
 
 ## キャンパスツール
 

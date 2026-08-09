@@ -6,7 +6,7 @@ sidebar_position: 5
 
 下部ナビゲーションの**電車**タブで漢大前駅のリアルタイム到着情報を確認します。
 
-<img src="/img/android/ko/subway.png" alt="電車画面" width="320" />
+<img src="/img/android/ja/subway.png" alt="電車画面" width="320" />
 
 ## リアルタイム検索
 

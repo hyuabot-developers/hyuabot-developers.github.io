@@ -6,7 +6,7 @@ sidebar_position: 4
 
 Check real-time arrival information by route from the **Bus** tab in the bottom navigation bar.
 
-<img src="/img/android/ko/bus.png" alt="Bus screen" width="320" />
+<img src="/img/android/en/bus.png" alt="Bus screen" width="320" />
 
 ## Route Tabs
 

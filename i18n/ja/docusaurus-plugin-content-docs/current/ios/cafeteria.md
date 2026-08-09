@@ -6,7 +6,7 @@ sidebar_position: 5
 
 下部ナビゲーションの**学食**タブで学内食堂ごとのメニューを確認します。
 
-<img src="/img/ios/ko/cafeteria.png" alt="学食画面" width="320" />
+<img src="/img/ios/ja/cafeteria.png" alt="学食画面" width="320" />
 
 ## メニュー確認
 

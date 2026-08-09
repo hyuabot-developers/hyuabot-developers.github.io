@@ -6,7 +6,7 @@ sidebar_position: 2
 
 アプリを開いたときに最初に表示される画面で、よく確認する情報を1画面にまとめて表示します。
 
-<img src="/img/android/ko/home.png" alt="ホーム画面" width="320" />
+<img src="/img/android/ja/home.png" alt="ホーム画面" width="320" />
 
 ## 主な情報
 

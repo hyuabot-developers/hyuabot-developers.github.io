@@ -6,7 +6,7 @@ sidebar_position: 2
 
 The first screen you see when you open the app. It brings together the information you check most often into a single view.
 
-<img src="/img/android/ko/home.png" alt="Home screen" width="320" />
+<img src="/img/android/en/home.png" alt="Home screen" width="320" />
 
 ## Key Information
 

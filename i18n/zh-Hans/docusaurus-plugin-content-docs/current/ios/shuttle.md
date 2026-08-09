@@ -6,7 +6,7 @@ sidebar_position: 2
 
 点击应用底部的**校车**标签后首先显示的界面，以天气和校车信息为核心，将常用信息汇集在一个页面中展示。
 
-<img src="/img/ios/ko/home.png" alt="首页界面" width="320" />
+<img src="/img/ios/zh-Hans/home.png" alt="首页界面" width="320" />
 
 ## 主界面
 
@@ -18,7 +18,7 @@ sidebar_position: 2
 
 也可切换至站点标签方式的实时时刻表界面（与 Android 的"旧版校车界面"概念相同）。
 
-<img src="/img/ios/ko/shuttle.png" alt="校车实时界面" width="320" />
+<img src="/img/ios/zh-Hans/shuttle.png" alt="校车实时界面" width="320" />
 
 - 按站点·目的地查询下一班出发时间
 - 预约特定时间提醒的闹钟功能
@@ -26,7 +26,7 @@ sidebar_position: 2
 - 通过快速设置（Quick Settings）调整常用选项
 - 跳转至**完整时刻表**查看全天班次时刻表
 
-<img src="/img/ios/ko/shuttle-timetable.png" alt="完整时刻表" width="320" />
+<img src="/img/ios/zh-Hans/shuttle-timetable.png" alt="完整时刻表" width="320" />
 
 :::info
 与 Android 相同，可在设置中切换两个界面（主界面 / 校车实时界面）中默认显示的界面。

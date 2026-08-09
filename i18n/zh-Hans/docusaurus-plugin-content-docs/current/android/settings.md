@@ -6,7 +6,7 @@ sidebar_position: 8
 
 在**校园 → 设置**中调整应用环境。
 
-<img src="/img/android/ko/settings.png" alt="设置界面" width="320" />
+<img src="/img/android/zh/settings.png" alt="设置界面" width="320" />
 
 | 选项 | 说明 |
 | --- | --- |

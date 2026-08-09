@@ -6,7 +6,7 @@ sidebar_position: 4
 
 下部ナビゲーションの**バス**タブで路線ごとのリアルタイム到着情報を確認します。
 
-<img src="/img/android/ko/bus.png" alt="バス画面" width="320" />
+<img src="/img/android/ja/bus.png" alt="バス画面" width="320" />
 
 ## 路線タブ
 

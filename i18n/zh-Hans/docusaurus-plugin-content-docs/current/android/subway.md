@@ -6,7 +6,7 @@ sidebar_position: 5
 
 在底部导航栏的**地铁**标签中查看汉大前站实时到站信息。
 
-<img src="/img/android/ko/subway.png" alt="地铁界面" width="320" />
+<img src="/img/android/zh/subway.png" alt="地铁界面" width="320" />
 
 ## 实时查询
 

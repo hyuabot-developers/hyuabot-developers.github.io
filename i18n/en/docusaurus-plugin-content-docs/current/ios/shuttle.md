@@ -6,7 +6,7 @@ sidebar_position: 2
 
 The first screen you see when you tap the **Shuttle** tab at the bottom of the app. It brings together weather and shuttle bus information, along with other frequently checked information, into a single view.
 
-<img src="/img/ios/ko/home.png" alt="Home screen" width="320" />
+<img src="/img/ios/en/home.png" alt="Home screen" width="320" />
 
 ## Home View
 
@@ -18,7 +18,7 @@ The first screen you see when you tap the **Shuttle** tab at the bottom of the a
 
 You can also switch to a stop-tab style real-time timetable screen (equivalent to the "Classic Shuttle Screen" on Android).
 
-<img src="/img/ios/ko/shuttle.png" alt="Shuttle bus real-time screen" width="320" />
+<img src="/img/ios/en/shuttle.png" alt="Shuttle bus real-time screen" width="320" />
 
 - View the next departure time by stop and destination
 - Set an alarm to receive a notification at a specific time
@@ -26,7 +26,7 @@ You can also switch to a stop-tab style real-time timetable screen (equivalent t
 - Adjust frequently used options via Quick Settings
 - Navigate to **Full Timetable** to view the complete daily departure schedule
 
-<img src="/img/ios/ko/shuttle-timetable.png" alt="Full timetable" width="320" />
+<img src="/img/ios/en/shuttle-timetable.png" alt="Full timetable" width="320" />
 
 :::info
 As with Android, you can switch which screen is shown by default (Home View / Shuttle Bus Real-time) in Settings.

@@ -6,7 +6,7 @@ sidebar_position: 8
 
 Adjust app preferences from **Campus → Settings**.
 
-<img src="/img/android/ko/settings.png" alt="Settings screen" width="320" />
+<img src="/img/android/en/settings.png" alt="Settings screen" width="320" />
 
 | Item | Description |
 | --- | --- |

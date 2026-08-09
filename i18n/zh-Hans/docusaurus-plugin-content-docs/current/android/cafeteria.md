@@ -6,7 +6,7 @@ sidebar_position: 6
 
 在底部导航栏的**食堂**标签中查看校内各食堂菜单。
 
-<img src="/img/android/ko/cafeteria.png" alt="食堂界面" width="320" />
+<img src="/img/android/zh/cafeteria.png" alt="食堂界面" width="320" />
 
 ## 菜单查询
 

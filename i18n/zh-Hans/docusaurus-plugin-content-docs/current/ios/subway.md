@@ -6,7 +6,7 @@ sidebar_position: 4
 
 在底部导航栏的**地铁**标签中查看各站实时到站信息。
 
-<img src="/img/ios/ko/subway.png" alt="地铁实时界面" width="320" />
+<img src="/img/ios/zh-Hans/subway.png" alt="地铁实时界面" width="320" />
 
 ## 实时查询
 

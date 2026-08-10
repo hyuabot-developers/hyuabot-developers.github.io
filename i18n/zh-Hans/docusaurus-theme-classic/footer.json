@@ -26,5 +26,9 @@
   "copyright": {
     "message": "Copyright © 2026 HYUabot Developers.",
     "description": "The footer copyright"
+  },
+  "link.item.label.개인정보처리방침": {
+    "message": "隐私政策",
+    "description": "The label of footer link with label=개인정보처리방침 linking to /privacy-policy"
   }
 }

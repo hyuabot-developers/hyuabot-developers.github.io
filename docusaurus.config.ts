@@ -147,6 +147,10 @@ const config: Config = {
               label: 'GitHub',
               href: 'https://github.com/hyuabot-developers',
             },
+            {
+              label: '개인정보처리방침',
+              to: '/privacy-policy',
+            },
           ],
         },
       ],

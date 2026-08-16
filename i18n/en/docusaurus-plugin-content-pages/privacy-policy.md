@@ -3,9 +3,11 @@ title: Privacy Policy
 description: HYUabot Privacy Policy
 ---
 
-# HYUabot Privacy Policy
+# HYUabot (휴아봇) Privacy Policy
 
-HYUabot ("the Service") is an **unofficial student project** operated by an individual (team) who is a Hanyang University student, and has no official affiliation with Hanyang University or any of its subordinate organizations. The operator of the Service ("the Operator") values users' personal information and has established and disclosed this Privacy Policy in order to comply with the Personal Information Protection Act and other applicable laws.
+This Privacy Policy applies to the Android app 「휴아봇」 (English name: HYUabot) listed on Google Play.
+
+The Google Play developer name for 휴아봇 is 「KW3102」, and the app is operated by individual developer Jeongin Lee (이정인). 휴아봇 is an unofficial student project with no official affiliation with Hanyang University or any of its subordinate organizations. The operator values users' personal information and has established and disclosed this Privacy Policy in order to comply with the Personal Information Protection Act and other applicable laws.
 
 ## 1. Personal Information Collected and Collection Methods
 
@@ -61,8 +63,10 @@ The Operator takes the following measures to prevent users' information from bei
 
 ## 7. Contact for Personal Information Inquiries
 
-As the Service is an unofficial individual (team) project, there is no separate organization for a personal information protection officer. However, inquiries regarding personal information can be submitted through the contact information below, and a prompt response will be provided.
+As the Service is an unofficial individual project, there is no separate organization for a personal information protection officer. However, inquiries regarding personal information can be submitted through the contact information below, and a prompt response will be provided.
 
+- Google Play developer name: KW3102
+- Operator: Jeongin Lee (이정인)
 - Email: jil8885@gmail.com
 - GitHub: [hyuabot-developers](https://github.com/hyuabot-developers)
 
